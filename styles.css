@@ -21,6 +21,16 @@ body {
   background-repeat: repeat;
 }
 
+a:link, a:visited {
+    color: #c95013; 
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color: #f69331; 
+    text-decoration: underline;
+}
+
 header {
   text-align: center;
   padding: 20px;
